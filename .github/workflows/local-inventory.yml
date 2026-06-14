@@ -1,0 +1,42 @@
+name: Bygg lokal lagerfeed
+
+# Kör automatiskt varje natt 04:15 svensk tid (03:15 UTC) + går att köra manuellt
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # behövs för att kunna committa den uppdaterade filen
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hämta repot
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bygg lokal lagerfeed
+        env:
+          FEED_URL: ${{ secrets.FEED_URL }}
+          STORE_CODE: ${{ secrets.STORE_CODE }}
+          OUTPUT: local_inventory.txt
+          INCLUDE_OUT_OF_STOCK: "1"
+        run: python build_local_inventory.py
+
+      - name: Committa om filen ändrats
+        run: |
+          git config user.name "lokalt-lager-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add local_inventory.txt
+          if git diff --staged --quiet; then
+            echo "Ingen förändring i lagret idag."
+          else
+            git commit -m "Uppdatera lokalt lager $(date -u +%Y-%m-%d)"
+            git push
+          fi
