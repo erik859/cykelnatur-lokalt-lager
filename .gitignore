@@ -1,0 +1,14 @@
+# Hemligheter – committa aldrig. I CI sätts dessa som GitHub Actions secrets.
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OBS: local_inventory.txt versionshanteras med flit – det är filen Google hämtar.
