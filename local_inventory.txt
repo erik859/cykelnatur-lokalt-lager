@@ -56,7 +56,7 @@ lagerplats_arsta	0181291	in_stock	116.00 SEK
 lagerplats_arsta	0181681	in_stock	166.00 SEK
 lagerplats_arsta	0182131	in_stock	116.00 SEK
 lagerplats_arsta	0182181	in_stock	116.00 SEK
-lagerplats_arsta	041042	in_stock	6495.00 SEK
+lagerplats_arsta	041042	out_of_stock	6495.00 SEK
 lagerplats_arsta	053347	out_of_stock	25995.00 SEK
 lagerplats_arsta	053348	in_stock	25995.00 SEK
 lagerplats_arsta	053349	in_stock	33995.00 SEK
@@ -114,8 +114,8 @@ lagerplats_arsta	101A1BOR1S7BEBd	in_stock	32999.00 SEK
 lagerplats_arsta	101A1BOR1S7BEBh	in_stock	32999.00 SEK
 lagerplats_arsta	101A1BPA1S5FCBd	in_stock	39999.00 SEK
 lagerplats_arsta	101A1BPA1S5FCBd	in_stock	49999.00 SEK
-lagerplats_arsta	101A1BPA1S5FCBh	in_stock	49999.00 SEK
 lagerplats_arsta	101A1BPA1S5FCBh	in_stock	39999.00 SEK
+lagerplats_arsta	101A1BPA1S5FCBh	in_stock	49999.00 SEK
 lagerplats_arsta	101A1BPU1S5BCBd	in_stock	49999.00 SEK
 lagerplats_arsta	101A1BPU1S5BCBh	in_stock	49999.00 SEK
 lagerplats_arsta	101A1BQF1S7FCBd	in_stock	36999.00 SEK
@@ -163,7 +163,7 @@ lagerplats_arsta	101C1BPR1S7FCBd	in_stock	30999.00 SEK
 lagerplats_arsta	101C1BPR1S7FCBd	in_stock	31999.00 SEK
 lagerplats_arsta	101E-102-RD30	in_stock	21995.00 SEK
 lagerplats_arsta	101E-121-BK30	in_stock	27995.00 SEK
-lagerplats_arsta	101E-368-YL10	in_stock	22495.00 SEK
+lagerplats_arsta	101E-368-YL10	out_of_stock	22495.00 SEK
 lagerplats_arsta	101E-501	out_of_stock	24995.00 SEK
 lagerplats_arsta	101E-555-BK2	out_of_stock	34495.00 SEK
 lagerplats_arsta	101E-556	out_of_stock	34995.00 SEK
@@ -381,7 +381,7 @@ lagerplats_arsta	12951	in_stock	1499.00 SEK
 lagerplats_arsta	12952	in_stock	1699.00 SEK
 lagerplats_arsta	12953	in_stock	499.00 SEK
 lagerplats_arsta	1308-71	in_stock	306.00 SEK
-lagerplats_arsta	1392-71	in_stock	359.00 SEK
+lagerplats_arsta	1392-71	out_of_stock	359.00 SEK
 lagerplats_arsta	140	in_stock	22995.00 SEK
 lagerplats_arsta	1400320000	in_stock	159.00 SEK
 lagerplats_arsta	14300	in_stock	899.00 SEK
@@ -1002,7 +1002,7 @@ lagerplats_arsta	220	in_stock	749.00 SEK
 lagerplats_arsta	221	out_of_stock	379.00 SEK
 lagerplats_arsta	225115	out_of_stock	1209.00 SEK
 lagerplats_arsta	2258001025241	in_stock	6495.00 SEK
-lagerplats_arsta	2258001025319	in_stock	7495.00 SEK
+lagerplats_arsta	2258001025319	out_of_stock	7495.00 SEK
 lagerplats_arsta	228260	in_stock	1359.00 SEK
 lagerplats_arsta	232	in_stock	9495.00 SEK
 lagerplats_arsta	233	in_stock	9995.00 SEK
@@ -1015,7 +1015,7 @@ lagerplats_arsta	239	out_of_stock	27.00 SEK
 lagerplats_arsta	241	in_stock	599.00 SEK
 lagerplats_arsta	242	out_of_stock	899.00 SEK
 lagerplats_arsta	245	out_of_stock	3050.00 SEK
-lagerplats_arsta	246	in_stock	39995.00 SEK
+lagerplats_arsta	246	out_of_stock	39995.00 SEK
 lagerplats_arsta	247	in_stock	71595.00 SEK
 lagerplats_arsta	2500223100	in_stock	649.00 SEK
 lagerplats_arsta	2500225060	out_of_stock	239.00 SEK
@@ -1596,7 +1596,7 @@ lagerplats_arsta	936-S	in_stock	469.00 SEK
 lagerplats_arsta	941086	in_stock	2899.00 SEK
 lagerplats_arsta	943048	in_stock	2599.00 SEK
 lagerplats_arsta	943061	out_of_stock	1199.00 SEK
-lagerplats_arsta	948502	in_stock	6995.00 SEK
+lagerplats_arsta	948502	out_of_stock	6995.00 SEK
 lagerplats_arsta	954123	in_stock	1789.00 SEK
 lagerplats_arsta	954139	in_stock	1659.00 SEK
 lagerplats_arsta	954140	in_stock	999.00 SEK
@@ -2077,7 +2077,7 @@ lagerplats_arsta	LK25824	in_stock	1999.00 SEK
 lagerplats_arsta	LK26164	in_stock	1999.00 SEK
 lagerplats_arsta	LTZ-E	out_of_stock	149.00 SEK
 lagerplats_arsta	LTZ-R	out_of_stock	119.00 SEK
-lagerplats_arsta	LXETA550	in_stock	99095.00 SEK
+lagerplats_arsta	LXETA550	out_of_stock	99095.00 SEK
 lagerplats_arsta	M259761	in_stock	64995.00 SEK
 lagerplats_arsta	M264530	in_stock	25995.00 SEK
 lagerplats_arsta	M264570402015	in_stock	35995.00 SEK
@@ -2174,8 +2174,8 @@ lagerplats_arsta	RSMGEAR16S	out_of_stock	64.00 SEK
 lagerplats_arsta	RSMGEAR18S	out_of_stock	64.00 SEK
 lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
-lagerplats_arsta	RSMGEAR19S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR19S	in_stock	64.00 SEK
+lagerplats_arsta	RSMGEAR19S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR19S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR20S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR20S	in_stock	77.00 SEK
