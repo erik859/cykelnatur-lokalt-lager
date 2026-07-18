@@ -92,10 +92,10 @@ lagerplats_arsta	101A1BMO1S7FADd	in_stock	35999.00 SEK
 lagerplats_arsta	101A1BMO1S7FADh	in_stock	35999.00 SEK
 lagerplats_arsta	101A1BNN1S8BDBd	in_stock	46999.00 SEK
 lagerplats_arsta	101A1BNN1S8BDBh	in_stock	46999.00 SEK
-lagerplats_arsta	101A1BNS1SEBCDd	in_stock	59749.00 SEK
 lagerplats_arsta	101A1BNS1SEBCDd	in_stock	56999.00 SEK
-lagerplats_arsta	101A1BNS1SEBCDh	in_stock	59749.00 SEK
+lagerplats_arsta	101A1BNS1SEBCDd	in_stock	59749.00 SEK
 lagerplats_arsta	101A1BNS1SEBCDh	in_stock	56999.00 SEK
+lagerplats_arsta	101A1BNS1SEBCDh	in_stock	59749.00 SEK
 lagerplats_arsta	101A1BNV1S8BDBd	in_stock	40749.00 SEK
 lagerplats_arsta	101A1BNV1S8BDBd	in_stock	43999.00 SEK
 lagerplats_arsta	101A1BNV1S8BDBh	in_stock	43999.00 SEK
@@ -1720,8 +1720,8 @@ lagerplats_arsta	EBPG05SRXA	in_stock	149.00 SEK
 lagerplats_arsta	EBPH03ARFA	in_stock	409.00 SEK
 lagerplats_arsta	EBPH03ARFA	in_stock	459.00 SEK
 lagerplats_arsta	EBPJ05ARFA	in_stock	359.00 SEK
-lagerplats_arsta	EBPK05SRXA	in_stock	139.00 SEK
 lagerplats_arsta	EBPK05SRXA	in_stock	149.00 SEK
+lagerplats_arsta	EBPK05SRXA	in_stock	139.00 SEK
 lagerplats_arsta	EBPL05ARFA	in_stock	319.00 SEK
 lagerplats_arsta	EBPL05ARFA	in_stock	279.00 SEK
 lagerplats_arsta	EBPN03ARFA	in_stock	379.00 SEK
@@ -2167,9 +2167,9 @@ lagerplats_arsta	ROV91364RB	in_stock	1149.00 SEK
 lagerplats_arsta	ROV91524RB	in_stock	1949.00 SEK
 lagerplats_arsta	RSMDBOILM	in_stock	349.00 SEK
 lagerplats_arsta	RSMGEAR16S	out_of_stock	64.00 SEK
-lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
-lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR18S	out_of_stock	64.00 SEK
+lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
+lagerplats_arsta	RSMGEAR18S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR19S	in_stock	64.00 SEK
 lagerplats_arsta	RSMGEAR19S	in_stock	77.00 SEK
 lagerplats_arsta	RSMGEAR19S	in_stock	77.00 SEK
