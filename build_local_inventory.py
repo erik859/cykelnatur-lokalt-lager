@@ -66,6 +66,8 @@ def parse_tsv(text):
         return []
     header = [strip_q(c) for c in lines[0].split("\t")]
     idx = {name: i for i, name in enumerate(header)}
+    # sale_price ar valfri: den finns i Abicart-feeden idag men skriptet ska inte
+    # krascha om den nagon gang forsvinner.
     needed = ["id", "availability", "price"]
     for n in needed:
         if n not in idx:
@@ -101,6 +103,7 @@ def parse_xml(data):
             "id": t(f"{G}id", "id"),
             "availability": t(f"{G}availability", "availability"),
             "price": t(f"{G}price", "price"),
+            "sale_price": t(f"{G}sale_price", "sale_price"),
             "store_code": t(f"{G}store_code", "store_code"),
         })
     return out
@@ -128,7 +131,7 @@ def main():
 
     rows = []
     stats = {"in_stock": 0, "out_of_stock": 0, "limited_availability": 0,
-             "on_display_to_order": 0, "saknar_id": 0}
+             "on_display_to_order": 0, "saknar_id": 0, "extrapris": 0}
 
     for r in records:
         item_id = (r.get("id") or "").strip()
@@ -140,14 +143,21 @@ def main():
         if availability == "out_of_stock" and not include_oos:
             continue
         store_code = (r.get("store_code") or "").strip() or fallback_store
+        sale_price = (r.get("sale_price") or "").strip()
+        if sale_price:
+            stats["extrapris"] += 1
         rows.append({
             "store_code": store_code,
             "item_id": item_id,
             "availability": availability,
             "price": (r.get("price") or "").strip(),
+            "sale_price": sale_price,
         })
 
-    cols = ["store_code", "item_id", "availability", "price"]
+    # price = ordinarie pris, sale_price = det kunden faktiskt betalar i butiken.
+    # Utan sale_price far Google ordinarie pris pa reavaror, och priset i feeden
+    # matchar da inte landningssidan.
+    cols = ["store_code", "item_id", "availability", "price", "sale_price"]
     with open(output, "w", encoding="utf-8", newline="\n") as f:
         f.write("\t".join(cols) + "\n")
         for r in rows:
@@ -157,7 +167,8 @@ def main():
     print(f"[{ts}] Klart. {len(records)} produkter -> {len(rows)} rader till {output}")
     print(f"  i lager: {stats['in_stock']}  slutsalda: {stats['out_of_stock']}"
           f"  begransat: {stats['limited_availability']}"
-          f"  utan id: {stats['saknar_id']}")
+          f"  utan id: {stats['saknar_id']}"
+          f"  med extrapris: {stats['extrapris']}")
     return 0
 
 
