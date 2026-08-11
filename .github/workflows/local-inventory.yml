@@ -1,9 +1,11 @@
 name: Bygg lokal lagerfeed
 
-# Kör automatiskt varje natt 04:15 svensk tid (03:15 UTC) + går att köra manuellt
+# Kör automatiskt 23:30 svensk tid (21:30 UTC) + går att köra manuellt.
+# Tiden är vald för att ligga strax före Merchant Centers hämtning kl 00:00 svensk
+# tid – bygger vi på morgonen hämtar Google gårdagens saldo.
 on:
   schedule:
-    - cron: "15 3 * * *"
+    - cron: "30 21 * * *"
   workflow_dispatch:
 
 permissions:
