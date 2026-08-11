@@ -24,5 +24,15 @@
 Se `README.md` för full bakgrund (varför skriptet behövs, Merchant Center-koppling, mappning online→butik).
 
 ## Status
-Kvar: koppla in raw-URL:en som lokal lagerdatakälla i Merchant Center
-(Inställningar → Datakällor → lokal lagerdatakälla → schemalagd hämtning).
+**Inkopplad och i drift** (verifierat 2026-08-11). Merchant Center-konto 484697722,
+kompletterande datakälla `PRODUCTS_INVENTORY_FULL SOURCE 2` av typen "Lokalt
+produktlager". Google hämtar filen **00:00 svensk tid** varje dygn; senaste
+körningen matchade 2 697 av 2 697 produkter utan anmärkning. Bygget kör därför
+23:30 svensk tid — flyttar du cron:en måste den ligga före Googles hämtning,
+annars levereras gårdagens saldo.
+
+Känt kvarstående: `price` kopieras rakt av från Abicart-feeden och är
+**ordinarie pris**, inte extrapriset. Exempel: Nishiki Rush ligger som 13 995 kr
+i feeden medan butiken tar 13 495 kr. Prisavvikelse mot landningssidan kan
+underkänna lokala annonser — kolla om Abicart-exporten har ett `sale_price`-fält
+att läsa i stället.
