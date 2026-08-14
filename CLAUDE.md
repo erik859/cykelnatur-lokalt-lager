@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Vad** | Bygger en lokal lagerfeed till Google Merchant Center ur Abicarts produktfeed. `build_local_inventory.py` väljer ut rätt kolumner → `local_inventory.txt` som Google hämtar via schemalagd hämtning. |
+| **Vad** | Bygger en lokal lagerfeed till Google Merchant Center ur Abicarts produktfeed. `build_local_inventory.py` väljer ut rätt kolumner → `local_inventory.txt` som Google hämtar via schemalagd hämtning. Här bor även `bing_submit.py`, som pingar Bing Webmaster Tools om nya/ändrade adresser (samma `FEED_URL` som indata). |
 | **Ägarskap** | Hermodex-internt (för egna butiken Cykel & Natur, cykelnatur.se). |
 | **Stack** | Python 3 (endast standardbibliotek). Körs i GitHub Actions (cron) – ingen egen server. |
 | **Port** | **Ingen** – batch/CLI-skript, ingen webbserver. |
@@ -20,6 +20,8 @@
 | `STORE_CODE` | Butikskod (`lagerplats_arsta`), reserv om en rad saknar värde. |
 | `OUTPUT` | Utfil (default `local_inventory.txt`). |
 | `INCLUDE_OUT_OF_STOCK` | `1` = ta med slutsålt, `0` = bara det som finns i butik. |
+| `BING_API_KEY` | Bing Webmaster Tools-nyckel (Settings → API access). Bara `bing_submit.py`. |
+| `SITE_URL` | Verifierad sajt i Bing (default `https://cykelnatur.se/`). Bara `bing_submit.py`. |
 
 Se `README.md` för full bakgrund (varför skriptet behövs, Merchant Center-koppling, mappning online→butik).
 
