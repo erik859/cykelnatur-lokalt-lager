@@ -92,10 +92,10 @@ lagerplats_arsta	101A1BMO1S7FADd	in_stock	35999.00 SEK
 lagerplats_arsta	101A1BMO1S7FADh	in_stock	35999.00 SEK	
 lagerplats_arsta	101A1BNN1S8BDBd	in_stock	46999.00 SEK	
 lagerplats_arsta	101A1BNN1S8BDBh	in_stock	46999.00 SEK	
-lagerplats_arsta	101A1BNS1SEBCDd	in_stock	59749.00 SEK	
 lagerplats_arsta	101A1BNS1SEBCDd	in_stock	56999.00 SEK	
-lagerplats_arsta	101A1BNS1SEBCDh	in_stock	59749.00 SEK	
+lagerplats_arsta	101A1BNS1SEBCDd	in_stock	59749.00 SEK	
 lagerplats_arsta	101A1BNS1SEBCDh	in_stock	56999.00 SEK	
+lagerplats_arsta	101A1BNS1SEBCDh	in_stock	59749.00 SEK	
 lagerplats_arsta	101A1BNV1S8BDBd	in_stock	40749.00 SEK	
 lagerplats_arsta	101A1BNV1S8BDBd	in_stock	43999.00 SEK	
 lagerplats_arsta	101A1BNV1S8BDBh	in_stock	43999.00 SEK	
@@ -135,8 +135,8 @@ lagerplats_arsta	101A1BSJR7SBEBd	in_stock	28999.00 SEK
 lagerplats_arsta	101A1BSM1S8BDBd	in_stock	46749.00 SEK	
 lagerplats_arsta	101A1BSM1S8BDBh	in_stock	46749.00 SEK	
 lagerplats_arsta	101A1BSN1R8SBDBd	in_stock	46749.00 SEK	
-lagerplats_arsta	101A1BSY1S5BEBd	in_stock	54749.00 SEK	
 lagerplats_arsta	101A1BSY1S5BEBd	in_stock	52999.00 SEK	
+lagerplats_arsta	101A1BSY1S5BEBd	in_stock	54749.00 SEK	
 lagerplats_arsta	101A1BTA1S8BDBd	in_stock	35999.00 SEK	
 lagerplats_arsta	101A1BTB1S8BDBd	in_stock	38999.00 SEK	
 lagerplats_arsta	101A1BTB1S8BDBh	in_stock	38999.00 SEK	
@@ -2306,7 +2306,16 @@ lagerplats_arsta	862706114105	in_stock	239.00 SEK
 lagerplats_arsta	8A501549	out_of_stock	349.00 SEK	
 lagerplats_arsta	90110240101	in_stock	1799.00 SEK	
 lagerplats_arsta	903258122	in_stock	14995.00 SEK	
+lagerplats_arsta	9032690-KOPP	in_stock	27995.00 SEK	
+lagerplats_arsta	9032690-MINT	in_stock	27995.00 SEK	
+lagerplats_arsta	9032690-SVART	in_stock	27995.00 SEK	
 lagerplats_arsta	9052260	in_stock	1795.00 SEK	
+lagerplats_arsta	9052691-BRONS	in_stock	27995.00 SEK	
+lagerplats_arsta	9052691-HERRGRA	in_stock	27995.00 SEK	
+lagerplats_arsta	9052693-GRA	in_stock	27995.00 SEK	
+lagerplats_arsta	9052693-RAVIT	in_stock	27995.00 SEK	
+lagerplats_arsta	9062691-SVART	in_stock	26995.00 SEK	
+lagerplats_arsta	9062691-VANILJ	in_stock	26995.00 SEK	
 lagerplats_arsta	9102091252-10	in_stock	23195.00 SEK	19995.00 SEK
 lagerplats_arsta	9102394148	in_stock	27995.00 SEK	20995.00 SEK
 lagerplats_arsta	9162compd	in_stock	9995.00 SEK	
