@@ -68,9 +68,6 @@ lagerplats_arsta	0721717	in_stock	15.00 SEK
 lagerplats_arsta	0721722	in_stock	15.00 SEK	
 lagerplats_arsta	0721724	in_stock	15.00 SEK	
 lagerplats_arsta	1-PK-PTBLSPO-V104	in_stock	269.00 SEK	
-lagerplats_arsta	1,14309E+11	in_stock	415.00 SEK	
-lagerplats_arsta	1,15369E+11	in_stock	259.00 SEK	
-lagerplats_arsta	1,16915E+11	in_stock	89.00 SEK	
 lagerplats_arsta	10016	in_stock	389.00 SEK	
 lagerplats_arsta	1006410000	in_stock	678.00 SEK	
 lagerplats_arsta	1006420000	in_stock	678.00 SEK	
@@ -280,7 +277,7 @@ lagerplats_arsta	114003	out_of_stock	28995.00 SEK
 lagerplats_arsta	114004	in_stock	22995.00 SEK	
 lagerplats_arsta	11425	in_stock	69.00 SEK	
 lagerplats_arsta	11426	in_stock	89.00 SEK	
-lagerplats_arsta	114309031000	out_of_stock	415.00 SEK	
+lagerplats_arsta	114309031000	in_stock	415.00 SEK	
 lagerplats_arsta	11431	in_stock	649.00 SEK	
 lagerplats_arsta	11445	in_stock	299.00 SEK	
 lagerplats_arsta	11450	in_stock	379.00 SEK	
@@ -311,7 +308,7 @@ lagerplats_arsta	115026	out_of_stock	8495.00 SEK
 lagerplats_arsta	115027	out_of_stock	14995.00 SEK	
 lagerplats_arsta	11507	out_of_stock	369.00 SEK	
 lagerplats_arsta	11530	in_stock	769.00 SEK	
-lagerplats_arsta	115369300500	out_of_stock	249.00 SEK	
+lagerplats_arsta	115369300500	in_stock	259.00 SEK	
 lagerplats_arsta	11563	out_of_stock	69.00 SEK	
 lagerplats_arsta	11564	in_stock	69.00 SEK	
 lagerplats_arsta	11567	in_stock	759.00 SEK	
@@ -326,9 +323,9 @@ lagerplats_arsta	116218030080	out_of_stock	1339.00 SEK
 lagerplats_arsta	11654159	in_stock	899.00 SEK	
 lagerplats_arsta	11654357	in_stock	549.00 SEK	
 lagerplats_arsta	11665	in_stock	639.00 SEK	
-lagerplats_arsta	11669	in_stock	561.00 SEK	
+lagerplats_arsta	11669	out_of_stock	561.00 SEK	
 lagerplats_arsta	11670	out_of_stock	529.00 SEK	
-lagerplats_arsta	116915005000	out_of_stock	99.00 SEK	
+lagerplats_arsta	116915005000	in_stock	89.00 SEK	
 lagerplats_arsta	117001	in_stock	14995.00 SEK	
 lagerplats_arsta	117002	in_stock	14995.00 SEK	
 lagerplats_arsta	11718	in_stock	299.00 SEK	
@@ -1532,7 +1529,7 @@ lagerplats_arsta	240	in_stock	1199.00 SEK	749.00 SEK
 lagerplats_arsta	241	in_stock	599.00 SEK	
 lagerplats_arsta	242	out_of_stock	899.00 SEK	
 lagerplats_arsta	246	in_stock	41995.00 SEK	
-lagerplats_arsta	249	in_stock	2750.00 SEK	1500.00 SEK
+lagerplats_arsta	249	out_of_stock	2750.00 SEK	
 lagerplats_arsta	250	in_stock	1499.00 SEK	699.00 SEK
 lagerplats_arsta	2500223100	in_stock	649.00 SEK	
 lagerplats_arsta	2500225060	out_of_stock	239.00 SEK	
@@ -2103,6 +2100,7 @@ lagerplats_arsta	46612	in_stock	399.00 SEK
 lagerplats_arsta	46613	in_stock	399.00 SEK	
 lagerplats_arsta	46614	in_stock	299.00 SEK	295.00 SEK
 lagerplats_arsta	46615	in_stock	399.00 SEK	395.00 SEK
+lagerplats_arsta	466670	in_stock	169.00 SEK	
 lagerplats_arsta	47-152	in_stock	216.00 SEK	
 lagerplats_arsta	47-156	in_stock	237.00 SEK	
 lagerplats_arsta	47-301	in_stock	91.00 SEK	
@@ -2884,6 +2882,8 @@ lagerplats_arsta	FSA330-0351555050	in_stock	1179.00 SEK
 lagerplats_arsta	FSA370-0051001140	in_stock	359.00 SEK	
 lagerplats_arsta	FSA371-0035003960	in_stock	649.00 SEK	
 lagerplats_arsta	FSA380-0024004050	in_stock	1009.00 SEK	
+lagerplats_arsta	FTWP-TE500RT	in_stock	199.00 SEK	
+lagerplats_arsta	FTWP-TEW250	in_stock	179.00 SEK	
 lagerplats_arsta	GEO11023	in_stock	1349.00 SEK	
 lagerplats_arsta	GEO11042	in_stock	1099.00 SEK	
 lagerplats_arsta	GEO11062	in_stock	299.00 SEK	
@@ -2929,7 +2929,7 @@ lagerplats_arsta	ICNE60709126I	in_stock	379.00 SEK
 lagerplats_arsta	ICNE60709138I	in_stock	429.00 SEK	
 lagerplats_arsta	ICNE800011116Q	in_stock	549.00 SEK	
 lagerplats_arsta	ICNE800011138Q	in_stock	639.00 SEK	
-lagerplats_arsta	ICNHG54116I	out_of_stock	349.00 SEK	
+lagerplats_arsta	ICNHG54116I	in_stock	349.00 SEK	
 lagerplats_arsta	ICNHG54116IS	in_stock	5249.00 SEK	
 lagerplats_arsta	ICNHG70111138Q	in_stock	499.00 SEK	
 lagerplats_arsta	ICNHG90111116Q	in_stock	699.00 SEK	
@@ -3103,11 +3103,15 @@ lagerplats_arsta	MT-STDR-V104T5	in_stock	412.00 SEK
 lagerplats_arsta	MT-TDR-V104T12	in_stock	549.00 SEK	395.00 SEK
 lagerplats_arsta	NHR_M	in_stock	394.00 SEK	
 lagerplats_arsta	P-LZCOYOTEKCCECPSC	in_stock	1399.00 SEK	
+lagerplats_arsta	P-LZCRUIZERCECPSC	in_stock	1349.00 SEK	
 lagerplats_arsta	P-LZFINCHKCCE	in_stock	849.00 SEK	
 lagerplats_arsta	P-LZNUTZ2.0KCCECPSC	in_stock	649.00 SEK	
 lagerplats_arsta	P-LZPNUT2.0KCCECPSC	in_stock	649.00 SEK	
 lagerplats_arsta	P-LZRHMTMAZEKCCECPSCASTM	in_stock	499.00 SEK	
 lagerplats_arsta	P-LZTONICKCCECPSC	in_stock	899.00 SEK	
+lagerplats_arsta	P-LZURBANIZENTACECPSC	in_stock	1599.00 SEK	
+lagerplats_arsta	P-LZZ1KCCECPSC	in_stock	2899.00 SEK	
+lagerplats_arsta	P-NEXTKCCECPSCNTA	in_stock	2199.00 SEK	
 lagerplats_arsta	P-NOVAKCCECPSCNTA	in_stock	2499.00 SEK	2295.00 SEK
 lagerplats_arsta	P-Pnut2.0KCCECPSC-BN	in_stock	649.00 SEK	
 lagerplats_arsta	P-SPHEREKCCECPSC	in_stock	1499.00 SEK	
