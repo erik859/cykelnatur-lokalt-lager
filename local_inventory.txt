@@ -154,7 +154,7 @@ lagerplats_arsta	101B1BRS1S11BEBh	in_stock	59999.00 SEK
 lagerplats_arsta	101B1BUA1S11BEBd	in_stock	49999.00 SEK	
 lagerplats_arsta	101B1BUA1S11BEBh	in_stock	49999.00 SEK	
 lagerplats_arsta	101C1BPR1S7FCBd	in_stock	31999.00 SEK	
-lagerplats_arsta	101E-250-BK11	in_stock	30995.00 SEK	19995.00 SEK
+lagerplats_arsta	101E-250-BK11	in_stock	30995.00 SEK	21995.00 SEK
 lagerplats_arsta	101E-368-YL10	out_of_stock	22495.00 SEK	21995.00 SEK
 lagerplats_arsta	101E-501	out_of_stock	24995.00 SEK	
 lagerplats_arsta	101E-552	in_stock	33495.00 SEK	
