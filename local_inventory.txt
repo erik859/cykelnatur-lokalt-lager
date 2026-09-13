@@ -300,7 +300,7 @@ lagerplats_arsta	115015	out_of_stock	12995.00 SEK
 lagerplats_arsta	115016	out_of_stock	12995.00 SEK	
 lagerplats_arsta	115017	out_of_stock	25995.00 SEK	
 lagerplats_arsta	115018	out_of_stock	8495.00 SEK	
-lagerplats_arsta	115020	in_stock	13995.00 SEK	12995.00 SEK
+lagerplats_arsta	115020	in_stock	13995.00 SEK	
 lagerplats_arsta	115021	out_of_stock	7995.00 SEK	
 lagerplats_arsta	115022	out_of_stock	7995.00 SEK	
 lagerplats_arsta	115023	out_of_stock	22995.00 SEK	
