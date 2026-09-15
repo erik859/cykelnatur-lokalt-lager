@@ -2597,7 +2597,8 @@ lagerplats_arsta	C8705068-1-30C	in_stock	1049.00 SEK
 lagerplats_arsta	C8705068-2-10	in_stock	139.00 SEK	
 lagerplats_arsta	C8705086-02C	in_stock	499.00 SEK	
 lagerplats_arsta	C8705144-1-04	in_stock	34.00 SEK	
-lagerplats_arsta	C8705186-01	in_stock	254.00 SEK	
+lagerplats_arsta	C8705186-01	in_stock	399.00 SEK	
+lagerplats_arsta	C8705188-E-01	in_stock	479.00 SEK	
 lagerplats_arsta	C8705195-03SV-3	out_of_stock	34.00 SEK	
 lagerplats_arsta	C9120139	in_stock	369.00 SEK	
 lagerplats_arsta	C9400221	in_stock	999.00 SEK	
