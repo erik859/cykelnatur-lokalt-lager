@@ -1575,7 +1575,7 @@ lagerplats_arsta	236	in_stock	99.00 SEK	65.00 SEK
 lagerplats_arsta	238	in_stock	299.00 SEK	
 lagerplats_arsta	238SN300BK0002	in_stock	288.00 SEK	
 lagerplats_arsta	239	out_of_stock	27.00 SEK	
-lagerplats_arsta	239FRWOBK0044	in_stock	395.00 SEK	
+lagerplats_arsta	239FRWOBK0044	out_of_stock	395.00 SEK	
 lagerplats_arsta	240	in_stock	1199.00 SEK	749.00 SEK
 lagerplats_arsta	241	in_stock	599.00 SEK	
 lagerplats_arsta	242	out_of_stock	899.00 SEK	
