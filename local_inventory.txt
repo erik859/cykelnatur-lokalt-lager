@@ -1629,7 +1629,7 @@ lagerplats_arsta	2501528101	out_of_stock	299.00 SEK
 lagerplats_arsta	2501580010	out_of_stock	119.00 SEK	
 lagerplats_arsta	2501580303	out_of_stock	89.00 SEK	
 lagerplats_arsta	2501580310	in_stock	89.00 SEK	
-lagerplats_arsta	2501589900	in_stock	99.00 SEK	
+lagerplats_arsta	2501589900	out_of_stock	99.00 SEK	
 lagerplats_arsta	2501599000	in_stock	89.00 SEK	
 lagerplats_arsta	2501599009	in_stock	89.00 SEK	
 lagerplats_arsta	2501601520	out_of_stock	169.00 SEK	
