@@ -3184,7 +3184,7 @@ lagerplats_arsta	IBRRS785MPRF	out_of_stock	769.00 SEK
 lagerplats_arsta	IBRRX400F6RF	out_of_stock	639.00 SEK	
 lagerplats_arsta	IBTE6000LD	in_stock	6449.00 SEK	
 lagerplats_arsta	IBTE6001LD	in_stock	8499.00 SEK	
-lagerplats_arsta	IBTE6010LD	in_stock	5949.00 SEK	
+lagerplats_arsta	IBTE6010LD	out_of_stock	5949.00 SEK	
 lagerplats_arsta	IBTE8010H	in_stock	7949.00 SEK	
 lagerplats_arsta	IBTE8014F	in_stock	6449.00 SEK	
 lagerplats_arsta	IBTE8016E	in_stock	9699.00 SEK	
