@@ -2491,7 +2491,7 @@ lagerplats_arsta	842106	in_stock	669.00 SEK
 lagerplats_arsta	842110	in_stock	995.00 SEK	
 lagerplats_arsta	862706114105	in_stock	239.00 SEK	
 lagerplats_arsta	8A501549	out_of_stock	349.00 SEK	
-lagerplats_arsta	90110240101	in_stock	1799.00 SEK	
+lagerplats_arsta	90110240101	in_stock	1799.00 SEK	1259.00 SEK
 lagerplats_arsta	903258122	out_of_stock	14995.00 SEK	
 lagerplats_arsta	9032690-KOPP	in_stock	27995.00 SEK	
 lagerplats_arsta	9032690-MINT	in_stock	27995.00 SEK	
@@ -3714,7 +3714,7 @@ lagerplats_arsta	Y13098630	in_stock	849.00 SEK
 lagerplats_arsta	Y1F316000	in_stock	26.00 SEK	
 lagerplats_arsta	Y1MP98020	out_of_stock	419.00 SEK	
 lagerplats_arsta	Y1NG38000	in_stock	229.00 SEK	
-lagerplats_arsta	Y1NV98020	in_stock	789.00 SEK	
+lagerplats_arsta	Y1NV98020	out_of_stock	789.00 SEK	
 lagerplats_arsta	Y1PH34010	out_of_stock	199.00 SEK	
 lagerplats_arsta	Y1RC34000	in_stock	219.00 SEK	
 lagerplats_arsta	Y1RC36000	in_stock	199.00 SEK	
