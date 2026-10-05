@@ -744,7 +744,6 @@ lagerplats_arsta	18-639-9511	in_stock	219.00 SEK
 lagerplats_arsta	18-639-9512	in_stock	119.00 SEK	
 lagerplats_arsta	18-639-9513	in_stock	119.00 SEK	
 lagerplats_arsta	18-639-9514	in_stock	119.00 SEK	
-lagerplats_arsta	18-639-9517	in_stock	119.00 SEK	
 lagerplats_arsta	18-639-9519	in_stock	219.00 SEK	
 lagerplats_arsta	18-639-9520	in_stock	119.00 SEK	
 lagerplats_arsta	18-639-9523	in_stock	119.00 SEK	
