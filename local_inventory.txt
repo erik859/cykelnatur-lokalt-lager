@@ -3365,7 +3365,7 @@ lagerplats_arsta	M259761	in_stock	64995.00 SEK	56995.00 SEK
 lagerplats_arsta	M264530	in_stock	25995.00 SEK	20995.00 SEK
 lagerplats_arsta	M264570402015	in_stock	35995.00 SEK	31295.00 SEK
 lagerplats_arsta	M266021413240	out_of_stock	7699.00 SEK	
-lagerplats_arsta	M269041406024	in_stock	37999.00 SEK	32995.00 SEK
+lagerplats_arsta	M269041406024	out_of_stock	37999.00 SEK	32995.00 SEK
 lagerplats_arsta	M269245	in_stock	34995.00 SEK	30495.00 SEK
 lagerplats_arsta	MFE60 8CU-BOX	in_stock	419.00 SEK	
 lagerplats_arsta	MFE90 9CU-BOX	in_stock	469.00 SEK	
