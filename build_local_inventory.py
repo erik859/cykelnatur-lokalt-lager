@@ -20,6 +20,7 @@ Miljovariabler:
 """
 
 import os
+import re
 import sys
 import datetime
 import urllib.request
@@ -128,6 +129,21 @@ def main():
     else:
         records = parse_tsv(data.decode("utf-8", errors="replace"))
         print("  format: TSV")
+
+    # Vakt (2026-10-09): Abicart svarade 9/10 med rubrikraden + sin felsida
+    # ("Serverfel. Administratörerna har meddelats ..."). Bygget skrev då en fil
+    # med bara rubriken, committade den, och Google hade hämtat noll lokala
+    # produkter vid nästa midnatt. Hellre en röd körning och gårdagens fil kvar
+    # än en tom fil: skriv ingenting om feeden ser trasig ut.
+    min_rows = int(os.environ.get("MIN_ROWS", "500"))
+    text = data.decode("utf-8", errors="replace")
+    if re.search(r"administrators have been notified|Administratörerna har meddelats", text):
+        print("FEL: feeden svarade med Abicarts felsida. Filen skrivs INTE om.", file=sys.stderr)
+        return 3
+    if len(records) < min_rows:
+        print(f"FEL: feeden gav bara {len(records)} produkter (golv {min_rows}). "
+              "Filen skrivs INTE om.", file=sys.stderr)
+        return 3
 
     rows = []
     stats = {"in_stock": 0, "out_of_stock": 0, "limited_availability": 0,
