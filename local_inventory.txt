@@ -449,8 +449,8 @@ lagerplats_arsta	116218030080	out_of_stock	1339.00 SEK
 lagerplats_arsta	11654159	in_stock	899.00 SEK	
 lagerplats_arsta	11654357	in_stock	549.00 SEK	
 lagerplats_arsta	11656	in_stock	149.00 SEK	
-lagerplats_arsta	11665	in_stock	639.00 SEK	
 lagerplats_arsta	11665	in_stock	559.00 SEK	
+lagerplats_arsta	11665	in_stock	639.00 SEK	
 lagerplats_arsta	11669	in_stock	561.00 SEK	
 lagerplats_arsta	11670	out_of_stock	529.00 SEK	
 lagerplats_arsta	116915005000	in_stock	89.00 SEK	
@@ -3489,8 +3489,8 @@ lagerplats_arsta	M259761	in_stock	64995.00 SEK	56995.00 SEK
 lagerplats_arsta	M264530	in_stock	25995.00 SEK	20995.00 SEK
 lagerplats_arsta	M264570402015	in_stock	35995.00 SEK	31295.00 SEK
 lagerplats_arsta	M266021413240	out_of_stock	7699.00 SEK	
-lagerplats_arsta	M269041406024	in_stock	37999.00 SEK	32995.00 SEK
-lagerplats_arsta	M269245	in_stock	34995.00 SEK	30495.00 SEK
+lagerplats_arsta	M269041406024	out_of_stock	37999.00 SEK	32995.00 SEK
+lagerplats_arsta	M269245	out_of_stock	34995.00 SEK	30495.00 SEK
 lagerplats_arsta	MFE60 8CU-BOX	in_stock	419.00 SEK	
 lagerplats_arsta	MFE90 9CU-BOX	in_stock	469.00 SEK	
 lagerplats_arsta	MFM2A 5DS-BOX	in_stock	169.00 SEK	
