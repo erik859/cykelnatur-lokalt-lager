@@ -38,3 +38,11 @@ Känt kvarstående: `price` kopieras rakt av från Abicart-feeden och är
 i feeden medan butiken tar 13 495 kr. Prisavvikelse mot landningssidan kan
 underkänna lokala annonser — kolla om Abicart-exporten har ett `sale_price`-fält
 att läsa i stället.
+
+## Meta-katalog (från 2026-10-15)
+`build_meta_catalog.py` bygger `meta_catalog.tsv` ur samma `FEED_URL` i samma nattliga körning.
+Filen är produktkatalogen för Metas katalogannonser (Commerce Manager hämtar raw-URL:en).
+Filtrerar bort slutsålt, rader utan bild/länk och pris under `MIN_PRICE` (50 kr). Behåller
+`sale_price`. `custom_label_0` = "rea", `custom_label_1` = "i lager"/"beställningsvara" för
+produktset. Steget har `continue-on-error` – det får aldrig stoppa lagerfeeden till Google.
+Gitignorera ALDRIG `meta_catalog.tsv`.
