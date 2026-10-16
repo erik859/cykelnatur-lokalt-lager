@@ -2567,7 +2567,7 @@ lagerplats_arsta	728432	in_stock	25.00 SEK
 lagerplats_arsta	728458	in_stock	172.00 SEK	
 lagerplats_arsta	73-40-002	in_stock	269.00 SEK	
 lagerplats_arsta	7316571815268	in_stock	109.00 SEK	
-lagerplats_arsta	7316577662583	in_stock	249.00 SEK	
+lagerplats_arsta	7316577662583	in_stock	329.00 SEK	
 lagerplats_arsta	7333288011615	in_stock	41995.00 SEK	
 lagerplats_arsta	7350006381157	in_stock	349.00 SEK	
 lagerplats_arsta	7350006381898	in_stock	349.00 SEK	
