@@ -3324,7 +3324,7 @@ lagerplats_arsta	IBPP03ARFA	in_stock	389.00 SEK
 lagerplats_arsta	IBPP04CMFA	in_stock	559.00 SEK	
 lagerplats_arsta	IBR4770RDRF	in_stock	669.00 SEK	
 lagerplats_arsta	IBRM8100MPRX	out_of_stock	659.00 SEK	
-lagerplats_arsta	IBRR8000AF82X	in_stock	939.00 SEK	595.00 SEK
+lagerplats_arsta	IBRR8000AF82X	out_of_stock	939.00 SEK	595.00 SEK
 lagerplats_arsta	IBRRS785MPRF	out_of_stock	769.00 SEK	
 lagerplats_arsta	IBRRX400F6RF	out_of_stock	639.00 SEK	
 lagerplats_arsta	IBTE6000LD	in_stock	6449.00 SEK	
@@ -3397,8 +3397,8 @@ lagerplats_arsta	IFDRX400F	out_of_stock	419.00 SEK
 lagerplats_arsta	IGPM8250UPG07	in_stock	7799.00 SEK	
 lagerplats_arsta	IPDR8000	in_stock	1699.00 SEK	
 lagerplats_arsta	IR7020DLF4SC100A	in_stock	2949.00 SEK	1695.00 SEK
-lagerplats_arsta	IR8020DRRDSC170A	in_stock	4349.00 SEK	1395.00 SEK
-lagerplats_arsta	IR8025DLF6SC100A	in_stock	4349.00 SEK	1395.00 SEK
+lagerplats_arsta	IR8020DRRDSC170A	out_of_stock	4349.00 SEK	1395.00 SEK
+lagerplats_arsta	IR8025DLF6SC100A	out_of_stock	4349.00 SEK	1395.00 SEK
 lagerplats_arsta	IRD4700GS	in_stock	609.00 SEK	
 lagerplats_arsta	IRD4700SS	in_stock	609.00 SEK	
 lagerplats_arsta	IRD5701SSL	out_of_stock	559.00 SEK	
