@@ -225,11 +225,11 @@ lagerplats_arsta	11101305	in_stock	399.00 SEK
 lagerplats_arsta	11101306	in_stock	399.00 SEK	
 lagerplats_arsta	11101307	in_stock	339.00 SEK	
 lagerplats_arsta	11116448.02	in_stock	799.00 SEK	599.00 SEK
-lagerplats_arsta	11125444.02	in_stock	899.00 SEK	
+lagerplats_arsta	11125444.02	out_of_stock	899.00 SEK	
 lagerplats_arsta	11131603.01	in_stock	329.00 SEK	
 lagerplats_arsta	11148969.02	in_stock	289.00 SEK	
 lagerplats_arsta	11156448.02	out_of_stock	899.00 SEK	
-lagerplats_arsta	11159003	in_stock	899.00 SEK	
+lagerplats_arsta	11159003	out_of_stock	899.00 SEK	
 lagerplats_arsta	11159025	in_stock	259.00 SEK	
 lagerplats_arsta	11159077.01	out_of_stock	649.00 SEK	
 lagerplats_arsta	11159081	out_of_stock	359.00 SEK	
@@ -252,7 +252,7 @@ lagerplats_arsta	112007	in_stock	8195.00 SEK
 lagerplats_arsta	112008	in_stock	8695.00 SEK	
 lagerplats_arsta	112009	in_stock	8495.00 SEK	
 lagerplats_arsta	1122	out_of_stock	39.00 SEK	
-lagerplats_arsta	11285	in_stock	0.00 SEK	
+lagerplats_arsta	11285	in_stock	399.00 SEK	
 lagerplats_arsta	113002	in_stock	8795.00 SEK	7995.00 SEK
 lagerplats_arsta	113003	out_of_stock	8795.00 SEK	
 lagerplats_arsta	113004	out_of_stock	9195.00 SEK	
@@ -442,7 +442,7 @@ lagerplats_arsta	11654357	in_stock	549.00 SEK
 lagerplats_arsta	11656	in_stock	149.00 SEK	
 lagerplats_arsta	11665	in_stock	559.00 SEK	
 lagerplats_arsta	11665	in_stock	639.00 SEK	
-lagerplats_arsta	11669	out_of_stock	561.00 SEK	
+lagerplats_arsta	11669	in_stock	561.00 SEK	
 lagerplats_arsta	11670	out_of_stock	529.00 SEK	
 lagerplats_arsta	116915005000	in_stock	89.00 SEK	
 lagerplats_arsta	117001	in_stock	14995.00 SEK	13995.00 SEK
@@ -460,7 +460,7 @@ lagerplats_arsta	11807	out_of_stock	529.00 SEK
 lagerplats_arsta	11811	in_stock	529.00 SEK	
 lagerplats_arsta	11814	in_stock	299.00 SEK	195.00 SEK
 lagerplats_arsta	12034	in_stock	859.00 SEK	
-lagerplats_arsta	12064	in_stock	0.00 SEK	
+lagerplats_arsta	12064	in_stock	873.00 SEK	
 lagerplats_arsta	12120	in_stock	199.00 SEK	
 lagerplats_arsta	12125	in_stock	199.00 SEK	
 lagerplats_arsta	1215	in_stock	39.00 SEK	
@@ -1844,7 +1844,7 @@ lagerplats_arsta	2509241548982	in_stock	467.00 SEK
 lagerplats_arsta	250924154899	in_stock	98.00 SEK	
 lagerplats_arsta	2509241548998	in_stock	373.00 SEK	
 lagerplats_arsta	250924154992	in_stock	150.00 SEK	
-lagerplats_arsta	251	in_stock	0.00 SEK	
+lagerplats_arsta	251	in_stock	187.00 SEK	
 lagerplats_arsta	2511191440244	out_of_stock	159.00 SEK	
 lagerplats_arsta	2523336DB	in_stock	2799.00 SEK	
 lagerplats_arsta	25523336DB	in_stock	1849.00 SEK	
@@ -2749,7 +2749,7 @@ lagerplats_arsta	C9120139	in_stock	369.00 SEK
 lagerplats_arsta	C9400221	in_stock	999.00 SEK	
 lagerplats_arsta	C9400261	in_stock	999.00 SEK	
 lagerplats_arsta	C9400262	out_of_stock	1195.00 SEK	
-lagerplats_arsta	C9400268	out_of_stock	1395.00 SEK	
+lagerplats_arsta	C9400268	in_stock	1395.00 SEK	
 lagerplats_arsta	C9400280	out_of_stock	1495.00 SEK	
 lagerplats_arsta	C9400288	out_of_stock	1695.00 SEK	
 lagerplats_arsta	C9400289	out_of_stock	1695.00 SEK	
@@ -3032,8 +3032,8 @@ lagerplats_arsta	EBBUN300B13X	in_stock	239.00 SEK
 lagerplats_arsta	EBBUN300B15B	in_stock	209.00 SEK	
 lagerplats_arsta	EBBUN300B17X	in_stock	209.00 SEK	
 lagerplats_arsta	EBBUN300B18X	in_stock	239.00 SEK	
-lagerplats_arsta	EBBUN300B22X	in_stock	0.00 SEK	
-lagerplats_arsta	EBBUN300B23X	in_stock	0.00 SEK	
+lagerplats_arsta	EBBUN300B22X	in_stock	209.00 SEK	
+lagerplats_arsta	EBBUN300B23X	in_stock	209.00 SEK	
 lagerplats_arsta	EBBUN300B27B	in_stock	209.00 SEK	
 lagerplats_arsta	EBBUN300C13X	in_stock	239.00 SEK	
 lagerplats_arsta	EBBUN300C18X	in_stock	209.00 SEK	
