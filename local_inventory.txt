@@ -440,8 +440,8 @@ lagerplats_arsta	116218030080	out_of_stock	1339.00 SEK
 lagerplats_arsta	11654159	in_stock	899.00 SEK	
 lagerplats_arsta	11654357	in_stock	549.00 SEK	
 lagerplats_arsta	11656	in_stock	149.00 SEK	
-lagerplats_arsta	11665	in_stock	559.00 SEK	
 lagerplats_arsta	11665	in_stock	639.00 SEK	
+lagerplats_arsta	11665	in_stock	559.00 SEK	
 lagerplats_arsta	11669	in_stock	561.00 SEK	
 lagerplats_arsta	11670	out_of_stock	529.00 SEK	
 lagerplats_arsta	116915005000	in_stock	89.00 SEK	
@@ -3219,7 +3219,7 @@ lagerplats_arsta	ESMRT54SI3P	in_stock	209.00 SEK
 lagerplats_arsta	ESMRT54SXSP	in_stock	1699.00 SEK	
 lagerplats_arsta	ESMRT56SP	in_stock	219.00 SEK	
 lagerplats_arsta	ESMRT64LI3C	in_stock	449.00 SEK	
-lagerplats_arsta	ESMRT64MEC	in_stock	369.00 SEK	
+lagerplats_arsta	ESMRT64MEC	out_of_stock	369.00 SEK	
 lagerplats_arsta	ESMRT64SEC	in_stock	389.00 SEK	
 lagerplats_arsta	ESMRT66M	in_stock	429.00 SEK	
 lagerplats_arsta	ESMRT66MP	in_stock	399.00 SEK	
