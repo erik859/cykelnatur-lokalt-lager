@@ -439,9 +439,9 @@ lagerplats_arsta	116218030080	out_of_stock	1339.00 SEK
 lagerplats_arsta	11654159	in_stock	899.00 SEK	
 lagerplats_arsta	11654357	in_stock	549.00 SEK	
 lagerplats_arsta	11656	in_stock	149.00 SEK	
-lagerplats_arsta	11665	in_stock	639.00 SEK	
 lagerplats_arsta	11665	in_stock	559.00 SEK	
-lagerplats_arsta	11669	in_stock	561.00 SEK	
+lagerplats_arsta	11665	in_stock	639.00 SEK	
+lagerplats_arsta	11669	out_of_stock	561.00 SEK	
 lagerplats_arsta	11670	out_of_stock	529.00 SEK	
 lagerplats_arsta	116915005000	in_stock	89.00 SEK	
 lagerplats_arsta	117001	in_stock	14995.00 SEK	13995.00 SEK
@@ -2634,7 +2634,7 @@ lagerplats_arsta	9052691-HERRGRA	in_stock	27995.00 SEK
 lagerplats_arsta	9052693-GRA	in_stock	27995.00 SEK	
 lagerplats_arsta	9052693-RAVIT	in_stock	27995.00 SEK	
 lagerplats_arsta	9062691-SVART	in_stock	26995.00 SEK	24995.00 SEK
-lagerplats_arsta	9102091252-10	in_stock	23195.00 SEK	18995.00 SEK
+lagerplats_arsta	9102091252-10	out_of_stock	23195.00 SEK	18995.00 SEK
 lagerplats_arsta	9102394148	in_stock	27995.00 SEK	
 lagerplats_arsta	9162compd	in_stock	9995.00 SEK	9495.00 SEK
 lagerplats_arsta	9162comph	in_stock	9995.00 SEK	9495.00 SEK
